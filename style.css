@@ -1,0 +1,17 @@
+h1 {
+   color: yellow;
+   width: 100%;
+   margin: 0 auto;
+   position:fixed;
+   padding-top: 75px;
+   padding-left: 500px;
+}
+
+#pic {
+    position: fixed;
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: ;
+    
+   
+}
